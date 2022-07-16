@@ -1,4 +1,20 @@
 {
+  "AC33248786": {
+    "contest_id": "abc220",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc220\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Find Multiple",
+    "problem_url": "https://atcoder.jp/contests/abc220/tasks/abc220_a",
+    "submission_id": "AC33248786",
+    "submission_url": "https://atcoder.jp/contests/abc220/submissions/33248786",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/16/2022 08:47"
+  },
   "AC33253162": {
     "contest_id": "abc199",
     "language": "C++ (GCC 9.2.1)",
