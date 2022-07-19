@@ -1,4 +1,20 @@
 {
+  "AC33352657": {
+    "contest_id": "abc214",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc214\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "How many?",
+    "problem_url": "https://atcoder.jp/contests/abc214/tasks/abc214_b",
+    "submission_id": "AC33352657",
+    "submission_url": "https://atcoder.jp/contests/abc214/submissions/33352657",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/19/2022 08:33"
+  },
   "AC39093852": {
     "contest_id": "abc206",
     "language": "C++ (GCC 9.2.1)",
