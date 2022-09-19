@@ -1,4 +1,20 @@
 {
+  "CF172719659": {
+    "contest_id": 440,
+    "language": "GNU C++17",
+    "path": "codeforces\\440\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Forgotten Episode",
+    "problem_url": "https://codeforces.com/contest/440/problem/A",
+    "submission_id": "CF172719659",
+    "submission_url": "https://codeforces.com/contest/440/submission/172719659",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/19/2022 21:58"
+  },
   "CF173737472": {
     "contest_id": 1535,
     "language": "GNU C++17",
