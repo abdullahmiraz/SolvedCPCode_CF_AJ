@@ -8,7 +8,6 @@ int main(){
     for(ll i = 0;i<n-1;i++){
         cin >> arr[i] ;
         sum+= arr[i] ;
-        // test
     }
     cout << ((n*(n+1))/2)-sum << endl;
 }
