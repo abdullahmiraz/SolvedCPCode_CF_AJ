@@ -1,4 +1,21 @@
 {
+  "CF177056404": {
+    "contest_id": 41,
+    "language": "GNU C++17",
+    "path": "codeforces\\41\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Translation",
+    "problem_url": "https://codeforces.com/contest/41/problem/A",
+    "submission_id": "CF177056404",
+    "submission_url": "https://codeforces.com/contest/41/submission/177056404",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Oct/20/2022 02:02"
+  },
   "CF177083620": {
     "contest_id": 271,
     "language": "GNU C++17",
