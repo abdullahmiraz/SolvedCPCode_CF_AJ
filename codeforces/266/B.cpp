@@ -17,7 +17,6 @@ int main(){
             i+=1  ;
         }
     }
-    
     }
     cout << s << endl ;
 
