@@ -17,7 +17,6 @@ int main(){
     int arr[5] = {r1, r2, r3, r4, r5} ;
     sort(arr, arr+5) ;
     cout << arr[4] ;
-    //
 
 
     return 0 ;
