@@ -1,4 +1,21 @@
 {
+  "CF180423087": {
+    "contest_id": 1433,
+    "language": "GNU C++17",
+    "path": "codeforces\\1433\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Boring Apartments",
+    "problem_url": "https://codeforces.com/contest/1433/problem/A",
+    "submission_id": "CF180423087",
+    "submission_url": "https://codeforces.com/contest/1433/submission/180423087",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/11/2022 11:52"
+  },
   "CF180634793": {
     "contest_id": 1748,
     "language": "GNU C++17",
