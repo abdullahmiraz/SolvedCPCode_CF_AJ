@@ -1,4 +1,24 @@
 {
+  "CF194269938": {
+    "contest_id": 409,
+    "language": "GNU C++17",
+    "path": "codeforces\\409\\H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "A + B Strikes Back",
+    "problem_url": "https://codeforces.com/contest/409/problem/H",
+    "submission_id": "CF194269938",
+    "submission_url": "https://codeforces.com/contest/409/submission/194269938",
+    "tags": [
+      "*special problem",
+      "brute force",
+      "constructive algorithms",
+      "dsu",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Feb/20/2023 00:09"
+  },
   "CF194532296": {
     "contest_id": 1506,
     "language": "GNU C++17",
