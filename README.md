@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+81 | [C - Soldier and Cards](https://codeforces.com/contest/546/problem/C) | [GNU C++17](./codeforces/546/C.cpp) | `brute force` `dfs and similar` `games` `*1400` | Feb/27/2023 23:20 | 
 80 | [A - Lala Land and Apple Trees](https://codeforces.com/contest/558/problem/A) | [GNU C++17](./codeforces/558/A.cpp) | `brute force` `implementation` `sortings` `*1100` | Feb/26/2023 03:47 | 
 79 | [A - Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | [GNU C++17](./codeforces/855/A.cpp) | `brute force` `implementation` `strings` `*800` | Feb/23/2023 11:23 | 
 78 | [D - Epic Transformation](https://codeforces.com/contest/1506/problem/D) | [GNU C++17](./codeforces/1506/D.cpp) | `constructive algorithms` `data structures` `greedy` `*1400` | Feb/22/2023 11:24 | 
@@ -86,8 +87,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 10 | [A - Cherry](https://codeforces.com/contest/1554/problem/A) | [GNU C++17](./codeforces/1554/A.cpp) | `greedy` `*800` | Sep/19/2022 08:10 | 
 9 | [A - Watermelon](https://codeforces.com/contest/4/problem/A) | [GNU C++17](./codeforces/4/A.cpp) | `brute force` `math` `*800` | Sep/18/2022 22:01 | 
 8 | [B - How many?](https://atcoder.jp/contests/abc214/tasks/abc214_b) | [C++ (GCC 9.2.1)](./atcoder/abc214/B.cpp) | `AtCoder` `*200` | Jul/19/2022 08:33 | 
-7 | [A - Discount](https://atcoder.jp/contests/abc193/tasks/abc193_a) | [C (GCC 9.2.1)](./atcoder/abc193/A.c) | `AtCoder` `*100` | Jul/16/2022 14:26 | 
-6 | [A - AC or WA](https://atcoder.jp/contests/abc152/tasks/abc152_a) | [C++ (GCC 9.2.1)](./atcoder/abc152/A.cpp) | `AtCoder` `*100` | Jul/16/2022 14:26 | 
+7 | [A - AC or WA](https://atcoder.jp/contests/abc152/tasks/abc152_a) | [C++ (GCC 9.2.1)](./atcoder/abc152/A.cpp) | `AtCoder` `*100` | Jul/16/2022 14:26 | 
+6 | [A - Discount](https://atcoder.jp/contests/abc193/tasks/abc193_a) | [C (GCC 9.2.1)](./atcoder/abc193/A.c) | `AtCoder` `*100` | Jul/16/2022 14:26 | 
 5 | [A - Square Inequality](https://atcoder.jp/contests/abc199/tasks/abc199_a) | [C++ (GCC 9.2.1)](./atcoder/abc199/A.cpp) | `AtCoder` `*100` | Jul/16/2022 13:46 | 
 4 | [A - Find Multiple](https://atcoder.jp/contests/abc220/tasks/abc220_a) | [C++ (GCC 9.2.1)](./atcoder/abc220/A.cpp) | `AtCoder` `*100` | Jul/16/2022 08:47 | 
 3 | [A - Biscuit Generator](https://atcoder.jp/contests/abc125/tasks/abc125_a) | [C++ (GCC 9.2.1)](./atcoder/abc125/A.cpp) | `AtCoder` `*100` | Jul/16/2022 08:33 | 
