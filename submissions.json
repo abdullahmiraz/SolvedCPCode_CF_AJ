@@ -1525,6 +1525,22 @@
     ],
     "timestamp": "Feb/27/2023 23:20"
   },
+  "CF196417688": {
+    "contest_id": 1800,
+    "language": "GNU C++17",
+    "path": "codeforces\\1800\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Is It a Cat?",
+    "problem_url": "https://codeforces.com/contest/1800/problem/A",
+    "submission_id": "CF196417688",
+    "submission_url": "https://codeforces.com/contest/1800/submission/196417688",
+    "tags": [
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "Mar/07/2023 23:14"
+  },
   "CF196551025": {
     "contest_id": 1352,
     "language": "GNU C++17",
